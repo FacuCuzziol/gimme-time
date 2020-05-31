@@ -17,3 +17,5 @@ functions:
             parameters:
               querystrings:
                 tz: true
+plugins:
+  - serverless-offline
